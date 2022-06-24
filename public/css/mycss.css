@@ -1,0 +1,18 @@
+canvas {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-35%, -50%);
+}
+
+video {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.bg-img-nf {
+    background-color: #4e73df;
+    background-image: url(https://lh3.ggpht.com/p/AF1QipOOYYLMcQqmlDT42chuYCMu7YBXxjFmE8EPffz0=s1024);
+    background-size: cover;
+}
