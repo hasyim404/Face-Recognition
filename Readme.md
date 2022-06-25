@@ -1,3 +1,5 @@
+![face test](/public/css/img/testface.png)
+
 # Requirements:
 
 1. Download dan Install <a href="https://nodejs.org/" target="_blank">NodeJS</a>, direkomendasikan menggunakan versi LTS.
